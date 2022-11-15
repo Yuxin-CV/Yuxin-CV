@@ -6,4 +6,4 @@
 
 - :brain: Now I train large neural nets @ BAAI with [Yue Cao](http://yue-cao.me/) & [Xinlong Wang](https://www.xloong.wang/).
 
-- My GitHub avatar is [Asuka Langley Soryu](https://en.wikipedia.org/wiki/Asuka_Langley_Soryu)
+- My GitHub avatar is [Asuka Langley Soryu](https://en.wikipedia.org/wiki/Asuka_Langley_Soryu).
