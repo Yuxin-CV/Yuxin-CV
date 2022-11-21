@@ -4,6 +4,6 @@
 
 - :telescope: I study Computer Vision & Pattern Recognition with a special focus on 2D visual understanding & representation learning.
 
-- :brain: Now I design and build giant [EVA](https://github.com/baaivision/EVA) @ [BAAI Vision Team](https://github.com/baaivision) with [Yue Cao](http://yue-cao.me/) & [Xinlong Wang](https://www.xloong.wang/).
+- :latin_cross: Now I design and build giant [EVA](https://github.com/baaivision/EVA) @ [BAAI Vision Team](https://github.com/baaivision) with Dr. [Yue Cao](http://yue-cao.me/) & Dr. [Xinlong Wang](https://www.xloong.wang/).
 
-- My GitHub avatar is [Asuka Langley Soryu](https://en.wikipedia.org/wiki/Asuka_Langley_Soryu).
+- :bird: My GitHub avatar is [Asuka Langley Soryu](https://en.wikipedia.org/wiki/Asuka_Langley_Soryu).
