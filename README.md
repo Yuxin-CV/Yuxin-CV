@@ -2,7 +2,7 @@
 
 - :computer: I am Yuxin Fang, a MS student @ [hustvl](https://github.com/hustvl) supervised by Prof. [Xinggang Wang](http://xinggangw.info). 
 
-- :telescope: I study Computer Vision & Pattern Recognition with a special focus on 2D visual understanding & representation learning.
+- :telescope: I study computer vision & pattern recognition with a special focus on 2D representation learning & visual understanding.
 
 - :latin_cross: Now I design and build giant [EVA](https://github.com/baaivision/EVA) @ [BAAI Vision Team](https://github.com/baaivision) with Dr. [Yue Cao](http://yue-cao.me/) & Dr. [Xinlong Wang](https://www.xloong.wang/).
 
