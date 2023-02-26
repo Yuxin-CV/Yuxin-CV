@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me:
 
 - :computer: I am Yuxin Fang, a MS student @ [hustvl](https://github.com/hustvl) supervised by Prof. [Xinggang Wang](http://xinggangw.info). 
 
