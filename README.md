@@ -1,6 +1,6 @@
 ### About me:
 
-- :computer: I am Yuxin Fang, a MS student @ [hustvl](https://github.com/hustvl) supervised by Prof. [Xinggang Wang](http://xinggangw.info). 
+- :computer: I am Yuxin Fang, a MS student @ [HUST Vision Lab](https://github.com/hustvl) supervised by Prof. [Xinggang Wang](http://xinggangw.info). 
 
 - :telescope: I am working on deep learning.
 
