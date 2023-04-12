@@ -1,6 +1,6 @@
 ### About me: 
 
-- I am Yuxin Fang (方羽新), an MS student @ [HUST Vision Lab](https://github.com/hustvl) supervised by Prof. [Xinggang Wang](http://xinggangw.info). 
+- I am Yuxin Fang (方羽新), an MSc student @ [HUST Vision Lab](https://github.com/hustvl) supervised by Prof. [Xinggang Wang](http://xinggangw.info). 
 
 - I design and build :latin_cross:[EVA](https://github.com/baaivision/EVA) @ [BAAI Vision Team](https://github.com/baaivision) with Dr. [Yue Cao](http://yue-cao.me/), Dr. [Xinlong Wang](https://www.xloong.wang/) and [Quan Sun](https://github.com/Quan-Sun).
 
