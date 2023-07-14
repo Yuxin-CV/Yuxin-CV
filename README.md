@@ -1,6 +1,6 @@
 ### About me: 
 
-- I am Yuxin Fang (方羽新), I am working on large-scale representation learning.
+- I am Yuxin Fang (方羽新), I am working on large-scale representation learning infrastructure and optimization methods.
 
 - My publications: [Google Scholar](https://bit.ly/yxf_pub).
 
