@@ -1,6 +1,6 @@
 ### About me: 
 
-- I am Yuxin Fang (方羽新), a Researcher in Natural Language Computing (NLC) group at Microsoft Research Asia.
+- I am Yuxin Fang (方羽新), a Researcher in [Natural Language Computing (NLC) group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) at Microsoft Research Asia.
 
 - I completed my M.S. degree @[hustvl](https://github.com/hustvl) in 2023, supervised by [Xinggang Wang](https://xwcv.github.io/).
 
