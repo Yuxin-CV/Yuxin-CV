@@ -1,6 +1,6 @@
 ### About me: 
 
-- I'm working on a stealth startup.
+- I'm working on a stealth AIGC startup.
 
 - My publications: [Google Scholar](https://bit.ly/yxf_pub).
 
