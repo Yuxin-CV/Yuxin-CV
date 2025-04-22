@@ -1,6 +1,6 @@
 ### About me:
 
-- I'm working on a stealth AIGC startup.
+- I'm working at [Sand.ai](sand.ai), a startup focused on video generation.
 
 - My publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=_Lk0-fQAAAAJ&view_op=list_works&sortby=pubdate).
 
